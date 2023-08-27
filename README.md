@@ -4,7 +4,7 @@
 * Two million data rows were selected from FAST and GAIA DR3 using SQL.
 * Visualized these data in Topcat by crossmatching source tables to filter out the outliers.
 * Identified 961 pulsars out of over 2,000,000 candidates using standard deviation and parallax in Python.
-* The attached file is in step 4 when we are cutting the stars outside three standard deviations
+* The attached file is written when we are cutting the stars outside three standard deviations
 ## Tools and Modules Used
 * Topcat; Python(Matplotlib, Astropy, Numpy, csv); Excel; DS9.
 * All the tools are running in a MacOS 10.13
